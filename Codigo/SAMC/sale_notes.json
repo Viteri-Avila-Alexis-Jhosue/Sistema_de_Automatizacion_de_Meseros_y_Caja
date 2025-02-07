@@ -1,0 +1,32 @@
+[
+  {
+    "customer": {
+      "name": "Danna",
+      "idCard": "1777777777",
+      "email": "danna@gmail.com",
+      "address": "Quito",
+      "phoneNumber": "0999999999",
+      "orders": []
+    },
+    "order": {
+      "Guata pequenia": 1
+    },
+    "total": 0.0,
+    "date": "2025-01-25 09:38:45"
+  },
+  {
+    "customer": {
+      "name": "Juan",
+      "idCard": "1777777777",
+      "email": "juan@gmail.com",
+      "address": "Quito",
+      "phoneNumber": "0999999999",
+      "orders": []
+    },
+    "order": {
+      "Guata pequenia": 4
+    },
+    "total": 0.0,
+    "date": "2025-01-25 10:24:41"
+  }
+]

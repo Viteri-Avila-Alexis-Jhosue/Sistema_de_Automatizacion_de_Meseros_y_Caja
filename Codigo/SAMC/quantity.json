@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": 48,
+    "name": "Guata pequenia",
+    "id": 1
+  },
+  {
+    "quantity": 30,
+    "name": "Guata mediana",
+    "id": 2
+  },
+  {
+    "quantity": 20,
+    "name": "Guata extragrande",
+    "id": 3
+  },
+  {
+    "quantity": 25,
+    "name": "Papas con cuero",
+    "id": 4
+  },
+  {
+    "quantity": 15,
+    "name": "Seco de chivo",
+    "id": 5
+  },
+  {
+    "quantity": 15,
+    "name": "Seco de chancho",
+    "id": 6
+  },
+  {
+    "quantity": 15,
+    "name": "Seco de costilla",
+    "id": 7
+  },
+  {
+    "quantity": 15,
+    "name": "Seco de pollo",
+    "id": 8
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de pollo y guata",
+    "id": 9
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de costilla y guata",
+    "id": 10
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto papas con cuero y guata",
+    "id": 11
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de chivo y guata",
+    "id": 12
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de chancho y guata",
+    "id": 13
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de pollo y papas con cuero",
+    "id": 14
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de chancho y papas con cuero",
+    "id": 15
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de costilla y papas con cuero",
+    "id": 16
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto seco de chivo y papas con cuero",
+    "id": 17
+  },
+  {
+    "quantity": 15,
+    "name": "Mixto con doble carne; pollo, chivo, chancho, costilla",
+    "id": 18
+  },
+  {
+    "quantity": 15,
+    "name": "Banderas",
+    "id": 19
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "customer": {
+      "name": "Danna",
+      "idCard": "1777777777",
+      "email": "danna@gamil.com",
+      "address": "Quito",
+      "phoneNumber": "0999999999"
+    },
+    "order": {
+      "Guata pequenia": 2
+    },
+    "total": 3.0,
+    "date": "2025-01-24 20:31:44"
+  }
+]
